@@ -1,1 +1,9 @@
 Hello, git!
+Добавляем изменения
+
+Установка и настройка git'a
+
+Чтобы установить git в Linux нужно выполнить команды:
+sudo apt update
+sudo apt install git
+

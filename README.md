@@ -5,7 +5,7 @@ Description:
 - добавили коммиты
 - запушили на github
 - склонировали
+- выполнить git pull
 
 Todo list:
-- выполнить git pull
-- разобраться с ветками
+- разобраться с ветками. status: in process ...

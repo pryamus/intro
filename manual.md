@@ -23,3 +23,9 @@ hostname
 ```bash
 pwd
 ```
+
+Чтобы создать вложенную директорию используем ключ `-p`
+```bash
+mkdir -p folder1/inner_folder2/inner_folder2
+mkdir -p {check1,check2,check3}
+```
